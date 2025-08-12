@@ -13,14 +13,14 @@ I'm currently on a journey to learn web development with a keen interest in AI, 
 ### My skills include
 
 <p align="center">
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
+	<img title="Python" alt="Python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Git" alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40" height="50" style="vertical-align:down; margin:4px"/>
+	<img title="linux" alt="linux" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="40" style="vertical-align:down; margin:4px"/>	
         <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 	<img width="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000"/>
-	<img title="c programming" alt="c programming" src="assets/c-programming.png" width="50" style="vertical-align:down; margin:4px"/>
-	<img title="c++" alt="c++" src="assets/c++.png" width="40" style="vertical-align:down; margin:4px"/>
+	<img title="c programming" alt="c programming" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" width="50" style="vertical-align:down; margin:4px"/>
+	<img title="c++" alt="c++" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="50" style="vertical-align:down; margin:4px"/>
 </p>
 
 
